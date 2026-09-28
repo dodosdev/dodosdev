@@ -17,16 +17,18 @@ UI/UX에 대한 이해를 바탕으로 사용자 경험을 고려한 인터페�
 Frontend · Backend · Database · Cloud까지 연결하는 웹 서비스를 개발합니다.
 
 🚀 About Me
-💻 Full Stack Developer with a strong focus on modern web application development
-🎨 UI/UX Design 경험을 바탕으로 사용성과 개발 효율을 함께 고려한 UI를 구현합니다.
-⚛️ React & TypeScript 기반의 컴포넌트 중심 프론트엔드 개발
-☕ Java & Spring Boot 기반의 RESTful API 및 서버 애플리케이션 개발
-🔐 JWT 기반 인증/인가 및 사용자 인증 시스템 구현 경험
-🗄️ MySQL 데이터 모델링 및 서버와의 데이터 연동
-☁️ AWS · Docker · GitHub Actions 기반의 클라우드 및 CI/CD 환경 구성 경험
-🔄 Git을 활용한 Branch · Commit · Pull Request 기반 협업 개발
+💻 Full Stack Developer with a strong focus on modern web application development <br>
+🎨 UI/UX Design 경험을 바탕으로 사용성과 개발 효율을 함께 고려한 UI를 구현합니다. <br>
+⚛️ React & TypeScript 기반의 컴포넌트 중심 프론트엔드 개발 <br>
+☕ Java & Spring Boot 기반의 RESTful API 및 서버 애플리케이션 개발 <br>
+🔐 JWT 기반 인증/인가 및 사용자 인증 시스템 구현 경험 <br>
+🗄️ MySQL 데이터 모델링 및 서버와의 데이터 연동 <br>
+☁️ AWS · Docker · GitHub Actions 기반의 클라우드 및 CI/CD 환경 구성 경험 <br>
+🔄 Git을 활용한 Branch · Commit · Pull Request 기반 협업 개발 <br>
 
+<hr>
 
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
@@ -59,49 +61,9 @@ Frontend · Backend · Database · Cloud까지 연결하는 웹 서비스를 개
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+### 🎨 Design & UI/UX
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-
-**HTML5 · CSS3 · JavaScript · TypeScript · React · Vite · SCSS**
-
----
-
-### ⚙️ Backend
-
-
-**Java · Spring Boot · Python · REST API · JWT**
-
----
-
-### 🗄️ Database
-
-
-**MySQL · JDBC**
-
----
-
-### ☁️ Cloud & DevOps
-
-
-**AWS · Docker · GitHub Actions · Git · GitHub**
-
----
-
-### 📦 Tools & Libraries
-
-
-**VS Code · IntelliJ IDEA · Figma · npm**
-
-
-
-
-
-
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ---
 
 ## 📫 Contact
@@ -113,4 +75,4 @@ https://github.com/dodosdev
 
 ### 💡 "Build it. Break it. Learn it. Build it better."
 
-꾸준히 배우고, 직접 만들고, 문제를 해결하며 성장하는 개발자가 되겠습니다. 🚀
+
