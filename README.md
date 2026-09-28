@@ -9,15 +9,6 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer
-* 🎨 UI/UX Design 경험을 바탕으로 사용자 중심의 웹 서비스를 개발합니다.
-* 🌱 **React + TypeScript + Java + Spring Boot + MySQL**을 중심으로 공부하고 있습니다.
-* 🔐 REST API, JWT 기반 인증/인가 및 데이터베이스 연동을 경험하고 있습니다.
-* ☁️ AWS 기반 클라우드 환경과 CI/CD에도 관심이 있습니다.
-* 🤖 AI와 데이터 기술을 웹 개발에 활용하는 방법을 공부하고 있습니다.
-
----
-
 💻 Full Stack Developer
 
 Building scalable web services from UI to API and Database.
